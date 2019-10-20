@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="8C266F02-46AB-484D-8A2C-3DABD0C9D51D">
+  <lastEdited clientType="local-build-20160418" date="2016-04-18 19:23:15 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Pump Fighter</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Pump Fighter is a simple 2 player game made for fun.&#xD;&#xD;Find a human friend or enemy, Choose a side, and Tap the screen the fastest you can to explode the head of your opponent!&#xD;Originally created in 18 hours on MsDos during a Demo party / Game Jam back in 1998, we decided to port it to Android to have fun with our friends and family! Done in our spare time, re-using the assets from back then with few improvements here and there, it took us a cumulated time of around 18h again to call it ready to be published!&#xD;&#xD;Completely Free, with no Ads, we're happy to offer you this small game!&#xD;&#xD;&#xD;&lt;a href="https://play.google.com/store/apps/details?id=com.fullybuggedsoftware.pumpfighter.fantasyland"&gt;Availabe now on Google play&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 23, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Pump_Fighter_files/shapeimage_2.png" left="0px" top="0px" width="533px" height="300px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="8C266F02-46AB-484D-8A2C-3DABD0C9D51D">
+  <lastEdited clientType="local-build-20160418" date="2016-04-18 19:13:33 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Ytterbite</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Your ship has arrived into an area of uncharted space.&#xD;The enemies have sensed your presence and have been deployed to try and rid you from their space.&#xD;Tense and frantic action is the order of day!&#xD;&#xD;This gamejam entry has been written using the Orx Portable Game Engine.&#xD;&#xD;&lt;a href="https://itch.io/jam/lowrezjam2016/rate/62809"&gt;Check it &lt;/a&gt;&lt;a href="https://itch.io/jam/lowrezjam2016/rate/62809"&gt;here&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;April 18, 2016&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Ytterbite_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

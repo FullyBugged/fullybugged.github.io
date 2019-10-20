@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="8C266F02-46AB-484D-8A2C-3DABD0C9D51D">
+  <lastEdited clientType="local-build-20150823" date="2015-08-23 21:46:26 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Dstroy (Dos Game)</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Developed by &lt;a href="http://ventajou.com/projects"&gt;Andre Rieussec&lt;/a&gt;,  &lt;a href="http://nicolasriviere.com/"&gt;Nicolas Riviere&lt;/a&gt; and &lt;a href="http://ca.linkedin.com/pub/jerome-angelot/2/62a/a6b"&gt;Jerome Angelot&lt;/a&gt;, with the help of &lt;a href="http://fr.linkedin.com/pub/emmanuel-marty/2/213/a77"&gt;Emmanuel Marty&lt;/a&gt;, Dstroy was one of the best game of its kind, available during the early 90&#x2019;s on Pc.&#xD;WIth awesome soudtracks on Gravis Ultrasound, up to 4 simultaneous players with multi direction scrolling at 30 fps on a Dx2-66, and against an IA some still remember and get nightmares about, It was a great game to play alone, with, or against friends.&#xD;You can play it from your Internet Browser &lt;a href="https://archive.org/details/msdos_Dstroy_1995"&gt;directly HERE&lt;/a&gt; thanks to the &lt;a href="https://archive.org/details/msdos_Dstroy_1995"&gt;Internet Database&lt;/a&gt;.&#xD;&lt;i&gt;(The original MsDos game is available on &lt;/i&gt;&lt;i&gt;&lt;a href="http://www.abandonia.com/en/games/832/DStroy.html"&gt;Abandonia&lt;/a&gt;&lt;/i&gt;&lt;i&gt; too)&#x2028;&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;November 22, 1995&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Dstroy_%28Dos_Game%29_files/shapeimage_2.png" left="0px" top="0px" width="316px" height="211px"/>
+</content>
