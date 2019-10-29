@@ -143,7 +143,7 @@ a {
 
 .page-title {
   margin-top: 0px;
-  margin-bottom: 86px;
+  margin-bottom: 50px;
   font-size: 45px;
   line-height: 51px;
   font-weight: 300;
@@ -449,7 +449,7 @@ a {
 
 .content-wrapper {
   margin-top: 60px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .footer-text {
@@ -548,7 +548,7 @@ a {
 }
 
 .text-block {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
@@ -723,6 +723,68 @@ a {
   align-items: stretch;
 }
 
+.body {
+  background-color: #000;
+  color: #fff;
+}
+
+.heading {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.text-block-3 {
+  display: block;
+  text-align: center;
+}
+
+.container-2 {
+  display: block;
+  padding-top: 20px;
+}
+
+.div-block {
+  display: block;
+}
+
+.image-5 {
+  display: block;
+  margin-top: 220px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.div-block-2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.container-3 {
+  margin-top: 220px;
+}
+
+.image-6 {
+  display: block;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.link-block-9 {
+  display: inline-block;
+}
+
+.div-block-3 {
+  display: block;
+  margin-left: 400px;
+}
+
+.background-video {
+  position: relative;
+}
+
 @media (max-width: 991px) {
   .nav-menu {
     padding-top: 18px;
@@ -775,6 +837,9 @@ a {
   .text-block-2 {
     margin-top: 10px;
   }
+  .div-block-3 {
+    margin-left: 300px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -826,6 +891,9 @@ a {
     padding-right: 40px;
     padding-left: 40px;
   }
+  .div-block-3 {
+    margin-left: 220px;
+  }
 }
 
 @media (max-width: 479px) {
@@ -861,6 +929,16 @@ a {
   .column {
     padding-right: 10px;
     padding-left: 10px;
+  }
+  .rich-text-block {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .text-block {
+    font-size: 15px;
+  }
+  .div-block-3 {
+    margin-left: 100px;
   }
 }
 
